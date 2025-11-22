@@ -3,4 +3,4 @@ This Repository Has:
 2. Images for testing the output of the code.
 
 **Note:**\
-*The python code is running by using the command 'python -m streamlit run Python.py'*
+*The python code is running by using the command 'python -m streamlit run Python.py' in the terminal*
